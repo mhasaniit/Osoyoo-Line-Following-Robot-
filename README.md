@@ -1,1 +1,2 @@
 # Osoyoo-Line-Following-Robot-
+Designed and implemented a line-tracking robot using C++, with iterative code modifications to improve sensor handling and motor control. These changes resulted in consistent task completion, improved run times across multiple attempts, and a fastest completion time of 30 seconds. The project achieved a 100% success rate and placed first in Lab 01 Competition 1, demonstrating reliable system performance.
